@@ -1,0 +1,14 @@
+C:\VSTS\Lars\globalhook_src\bin\Debug\GlobalHookDemo.exe.config
+C:\VSTS\Lars\globalhook_src\bin\Debug\GlobalHookDemo.exe.manifest
+C:\VSTS\Lars\globalhook_src\bin\Debug\GlobalHookDemo.application
+C:\VSTS\Lars\globalhook_src\bin\Debug\GlobalHookDemo.XML
+C:\VSTS\Lars\globalhook_src\bin\Debug\GlobalHookDemo.exe
+C:\VSTS\Lars\globalhook_src\bin\Debug\GlobalHookDemo.pdb
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.csproj.AssemblyReference.cache
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.MainForm.resources
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.csproj.GenerateResource.cache
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.csproj.CoreCompileInputs.cache
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.exe.manifest
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.application
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.exe
+C:\VSTS\Lars\globalhook_src\obj\Debug\GlobalHookDemo.pdb
